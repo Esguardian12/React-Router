@@ -8,3 +8,5 @@ const Spinach = () => {
     </>
   );
 };
+
+export default Spinach;
